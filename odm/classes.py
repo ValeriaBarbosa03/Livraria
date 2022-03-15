@@ -1,5 +1,3 @@
-# importando bibiotecas
-import mongoengine
 from mongoengine import *
 import json
 
